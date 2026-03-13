@@ -1,55 +1,20 @@
-# NPRT63
+# Project: CivicTrack (MegaTech Group)
+## Phase 1: Planning & Feasibility Analysis
 
-## NPRT63 - Project
+### Group Members:
+* Mbali Innocent Msiza (202423194)
+* Rambani Ntendeleni (202411253)
+* Gift Baloyi (202211196)
+* Bonolo Sesinyi (202464086)
 
-[![Code License](https://img.shields.io/badge/Code%20License-GPLv2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20%40iammelvink-blue.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/iammelvink)
+### Project Overview
+CivicTrack is an integrated digital electronic system designed to replace manual reporting methods in South African municipalities. It allows citizens to electronically submit and track issues like potholes, water leaks, and power outages in real time.
 
-## Overview
+### Repository Contents (Phase 1)
+* **Dox/**: Contains the official Phase 1 Project Proposal (PDF).
+* **MegaTech Group-Names.txt**: Official group list with student numbers and repository link.
 
-This is the codebase produced for the Project course
-
-Written in **Placeholder**
-
-1. Methodologies/Project Management:
-
-   - Agile
-
-2. Coding Practices:
-
-   - OOP (Object Oriented Programming)
-   - MVC (Model View Controller)
-
-3. Programming Languages/Frameworks:
-
-   - Placeholder
-
-## Instructions
-
-1. Make sure you have these installed
-
-2. Clone `ONLY THE LATEST COMMIT` of this repository into your local machine using the terminal (mac) or
-   [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)') `to save storage space`
-
-   ```sh
-   git clone https://github.com/iammelvink/NPRT63.git --depth=1
-   ```
-
-## Author(s)
-
-"Group members and lecturer"
-
-[Melvin Kisten](https://github.com/iammelvink 'Melvin Kisten\'s GitHub page')
-
-GitHub: @"Group members"
-
-LinkedIn: [Melvin Kisten](https://www.linkedin.com/in/iammelvink 'Melvin Kisten\'s LinkedIn page')
-
-## Acknowledgments
-
-To my lecturer [Melvin Kisten](https://www.linkedin.com/in/iammelvink 'Melvin Kisten\'s LinkedIn page') for their guidance
-
-## More Stuff
-
-Check out some other stuff on
-[Melvin Kisten](https://github.com/iammelvink 'Melvin Kisten\'s GitHub page')
+### Methodology & Tools
+* **Project Management:** Agile
+* **Coding Practices:** OOP (Object Oriented Programming) and MVC (Model View Controller)
+* **Planned Environment:** Python 3.10+ / Java (to be confirmed in Phase 2)
